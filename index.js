@@ -1,3 +1,3 @@
 var logger = require('npmToying');
-logger.printMsg();
-logger.printGreen("Mais c'est suuuper !");
+logger.errMsg()
+logger.saySomething("Mais c'est suuuper !");
